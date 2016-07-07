@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  color: orange;
+}
+
+label {
+  color: purple;
+  font-size: 14px;
+}
+
+textarea {
+  width: 200px;
+  padding: 20px 25px;
+  margin: 15px 0px;
+  box-sizing: border-box;
+}
+
+input[type=checkbox] {
+  display: inline;
+  color: purple;
+}
+
+input[type=submit] {
+  background-color: orange;
+}
